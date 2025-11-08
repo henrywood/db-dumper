@@ -1,5 +1,5 @@
 {
-    "name": "spatie/db-dumper",
+    "name": "henrywood/db-dumper",
     "description": "Dump databases",
     "keywords": [
         "spatie",
@@ -8,12 +8,12 @@
         "mysqldump",
         "db-dumper"
     ],
-    "homepage": "https://github.com/spatie/db-dumper",
+    "homepage": "https://github.com/henrywood/db-dumper",
     "license": "MIT",
     "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
+            "name": "Henrik Skov",
+            "email": "henry.wood.dk@gmail.com",
             "homepage": "https://spatie.be",
             "role": "Developer"
         }
